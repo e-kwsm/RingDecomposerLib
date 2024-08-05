@@ -31,7 +31,7 @@
 #include "RingDecomposerLib.h"
 
 /** @private */
-int main()
+int main(void)
 {
   RDL_graph* graph;
   RDL_data* data;
